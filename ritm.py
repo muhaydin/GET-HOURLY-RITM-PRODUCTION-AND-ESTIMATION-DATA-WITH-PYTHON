@@ -15,7 +15,6 @@ import os
 from datetime import date, timedelta, datetime
 import datetime
 
-os.chdir("C:/Users/muhammet.aydin/Desktop/ritm")
 
 #### RES'lerin Toplam Güç Üretimi ve Tahmini ####
 
