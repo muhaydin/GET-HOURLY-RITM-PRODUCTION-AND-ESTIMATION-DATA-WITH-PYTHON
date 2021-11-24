@@ -62,5 +62,9 @@ df_3['Tahmin']=df_3['Tahmin'].astype(float)
 #### CSV YE YAZMA ####
 
 df3.to_csv("RES'lerin Toplam Güç Üretimi ve Tahmini.csv", encoding='utf-8-sig', index=False)  
-df_3.to_csv("RES'lerin Ölçeklenmiş Toplam Üretim Tahmini.csv", encoding='utf-8-sig', index=False)  
+df_3.to_csv("RES'lerin Ölçeklenmiş Toplam Üretim Tahmini.csv", encoding='utf-8-sig', index=False)
+
+
+
+
 
