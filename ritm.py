@@ -39,9 +39,6 @@ df3['Q2'] = df3['Q2'].astype(float)
 df3['Q3'] = df3['Q3'].astype(float)
 df3['Q4'] = df3['Q4'].astype(float)
 
-name_df3 = 'RİTM' + '_' + date.today().strftime('%Y%m%d')+'.xlsx'
-name_df3_path= os.getcwd() + '\\' + name_df3
-
 #### RES'lerin Ölçeklenmiş Toplam Üretim Tahmini ####
 
 url3 = 'http://www.ritm.gov.tr/amline/data_file_bolgesel.txt' 
