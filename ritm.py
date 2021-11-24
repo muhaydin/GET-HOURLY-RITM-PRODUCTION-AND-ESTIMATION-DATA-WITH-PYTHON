@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 24 11:55:31 2021
-
-@author: muhammet.aydin
-"""
 
 import requests
 import urllib.request
